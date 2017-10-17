@@ -1,0 +1,32 @@
+.caja1 {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background: blue;
+	border: 2px solid blue;
+}
+.caja2 {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background: pink;
+	border: 2px solid pink;
+	position: relative;
+	left: 30px;
+	top: 30px;
+}
+.caja3 {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background: orange;
+	border: 2px solid orange;
+	
+}
+.caja4 {
+	
+	width: 200px;
+	height: 200px;
+	background: green;
+	border: 2px solid green;
+}

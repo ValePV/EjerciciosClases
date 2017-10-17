@@ -1,0 +1,33 @@
+.contenedor {
+	background: navy;
+	border: 1px solid navy;
+	overflow: hidden;
+}
+
+h1{
+	color: navy;
+	text-align: center;
+
+}
+li{
+	color: white;
+	float: left;
+	height: 40px;
+	margin: 20px;
+}
+
+.imagen1{
+	float: right;
+	margin: 0em 2em;
+	border:1px solid navy;
+}
+
+.imagen2 {
+	float: left;
+	margin: 0em 2em;
+	border:1px solid navy;
+}
+
+.fa-paw {
+	font-size: 50px;
+}

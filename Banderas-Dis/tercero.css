@@ -1,0 +1,23 @@
+.yellow {
+	background-color: orange;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+	display: inline-block;
+	margin: 15px;
+}
+.grey {
+	background-color: grey;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+	display: inline-block;
+	margin: 15px;
+
+}
+h4{
+	padding: 0.5em;
+}
+.blanco{
+	color: white;
+}

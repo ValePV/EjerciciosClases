@@ -1,0 +1,114 @@
+.cancha {
+	width: 1000px;
+	height: 600px;
+	background: #53b353;
+	position: relative;
+}
+.borde {
+	width: 950px;
+	height: 550px;
+	background: transparent;
+	border: 3px solid #c4cac4;
+	position: absolute;
+	top: 25px;
+	left: 25px;
+}
+.arco1 {
+	width: 150px;
+	height: 250px;
+	background: transparent;
+	border: 3px solid #c4cac4;
+	position: absolute;
+	top: 165px;
+	left: 25px;
+}
+
+.arco2 {
+	width: 150px;
+	height: 250px;
+	background: transparent;
+	border: 3px solid #c4cac4;
+	position: absolute;
+	top: 165px;
+	left: 825px;
+}
+.central {
+	 width: 250px;
+     height: 250px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: transparent;
+     border: 3px solid #c4cac4;
+     position: absolute;
+     top: 170px;
+     left: 375px;
+
+}
+.pelota1{
+	 width: 15px;
+     height: 15px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: absolute;
+     left: 167px;
+     top: 167px;
+     box-shadow: 1px 1px #474a47;
+
+}
+
+
+
+.ball1 {
+	 position: absolute;
+	 top: 174px;
+	 left:174px;
+	 color: black;
+	 
+	 
+}
+
+.pelota2{
+	 width: 15px;
+     height: 15px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: absolute;
+     left: 503px;
+     top: 103px;
+     box-shadow: 1px 1px #474a47;
+     
+
+}
+.ball2 {
+	 position: absolute;
+	 top: 110px;
+	 left:510px;
+	 color: black ;
+}
+
+.pelota3{
+	 width: 15px;
+     height: 15px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: absolute;
+     left: 803px;
+     top: 393px;
+     box-shadow: 1px 1px #474a47;
+    
+
+}
+.ball3 {
+	 position: absolute;
+	 top: 400px;
+	 left:810px;
+	 color: black ;
+}
+

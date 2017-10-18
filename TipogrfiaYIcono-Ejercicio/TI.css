@@ -1,0 +1,81 @@
+.contenedor {
+	overflow: hidden;
+
+}
+
+.Avion{
+	width: 200px;
+	height: 300px;
+	background: #dedbdb;
+	margin: 0em 0.2em;
+	float: left;
+}
+.Ruby{
+	width: 200px;
+	height: 300px;
+	background: #dedbdb;
+	margin: 0em 0.2em;
+	float: left
+}
+.Corazon{
+	width: 200px;
+	height: 300px;
+	background: #f9f5f5;
+	margin: 0em 0.2em;
+	float: left;
+}
+.Cafe{
+	width: 200px;
+	height: 300px;
+	background: #dedbdb;
+	margin: 0em 0.2em;
+	float: left;
+}
+.Platito{
+	width: 200px;
+	height: 300px;
+	background: #dedbdb;
+	margin: 0em 0.2em;
+	float: left;
+}
+
+h2,h6,p {
+	text-align: center;
+	color: grey;
+}
+
+h2 {
+	font-family: 'Indie Flower', cursive;
+}
+h6 {
+	font-family: 'Shadows Into Light', cursive;
+}
+p {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.fa-paper-plane-o {
+	margin: 0.1em 0.8em;
+	font-size: 70px;
+	color: grey;
+}
+.fa-diamond {
+	margin: 0.1em 0.8em;
+	font-size: 70px;
+	color: grey;
+}
+.fa-heartbeat{
+	margin: 0.1em 0.8em;
+	font-size: 70px;
+	color: grey;
+}
+.fa-bitbucket {
+	margin: 0.1em 0.8em;
+	font-size: 70px;
+	color: grey;
+}
+.fa-birthday-cake {
+	margin: 0.1em 0.8em;
+	font-size: 70px;
+	color: grey;
+}

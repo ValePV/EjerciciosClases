@@ -1,0 +1,78 @@
+.cuadro {
+	width: 1000px;
+	height: 1000px;
+	position: relative;
+	overflow: hidden;
+
+}
+.cuadro1{
+	width: 906px;
+	background: orange;
+	border-top: none;
+	border-bottom: none;
+	border: solid black;
+}
+
+h2{
+	text-align: center;
+}
+.cuadro2{
+	width: 300px;
+	height: 500px;
+	border: solid black;
+	border-top: none;
+	border-bottom: none;
+	border-right: none;
+	background: white;
+	float: left;
+	
+}
+
+.cuadro3{
+	width: 300px;
+	height: 500px;
+	border: solid black;
+	border-top: none;
+	border-bottom: none;
+	background: white;
+	float: left;
+}
+
+.cuadro4{
+	width: 300px;
+	height: 500px;
+	border: solid black;
+	border-top: none;
+	border-bottom: none;
+	border-left: none;
+	background: white;
+	float: left;
+}
+
+h3{
+	text-align: center;
+}
+p{
+	text-align: center;
+	margin: 0em 2em;
+}
+
+.cuadro5{
+	width: 906px;
+	background: orange;
+	border: solid black;
+	float: left;
+}
+
+span{
+	text-decoration: underline pink;
+}
+/*
+.ima1{
+	
+	top: 60px;
+}
+.ima2{
+	float: right;
+
+}

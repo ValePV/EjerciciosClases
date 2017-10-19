@@ -7,6 +7,7 @@
 }
 
 a{
+	height:350px;
 	display: block;
 	text-decoration:none;
 }
@@ -14,6 +15,7 @@ a:hover {
 	background: #f9f5f5;
 }
 .Avion{
+	display: inline-block;
 	width: 200px;
 	height: 350px;
 	background: #dedbdb;
@@ -21,6 +23,7 @@ a:hover {
 	float: left;
 }
 .Ruby{
+	display: inline-block;
 	width: 200px;
 	height: 350px;
 	background: #dedbdb;
@@ -28,6 +31,7 @@ a:hover {
 	float: left
 }
 .Corazon{
+	display: inline-block;
 	width: 200px;
 	height: 350px;
 	background:#dedbdb ;
@@ -35,6 +39,7 @@ a:hover {
 	float: left;
 }
 .Cafe{
+	display: inline-block;
 	width: 200px;
 	height: 350px;
 	background: #dedbdb;
@@ -42,6 +47,7 @@ a:hover {
 	float: left;
 }
 .Platito{
+	display: inline-block;
 	width: 200px;
 	height: 350px;
 	background: #dedbdb;
@@ -52,6 +58,7 @@ a:hover {
 h2,h5,p {
 	text-align: center;
 	color: grey;
+	display: block;
 }
 
 h2 {
@@ -63,6 +70,7 @@ h5 {
 p {
 	font-family: 'Josefin Sans', sans-serif;
 	margin: 0.2em 0.2em;
+	display: block;
 }
 
 .fa-paper-plane-o {

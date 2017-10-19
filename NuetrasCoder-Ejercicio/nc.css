@@ -1,0 +1,63 @@
+.contenedor {
+	width: 700px;
+	position: relative;
+}
+
+.foto1, .foto2, .foto3, .foto4, .foto5, .foto6 {
+	position: relative;
+	float: left;
+	}
+h2 {
+	font-family: 'Architects Daughter', cursive;
+	color: grey;
+}
+h5 {
+	font-family: 'Architects Daughter', cursive;
+	color: #ffffff;
+}
+
+hr {
+	width: 80px;
+	height: 3px;
+	background: grey;
+	margin-left: 0;
+}
+
+.uno {
+	position: absolute;
+	top: 200px;
+	left: 85px;
+
+	}
+.dos {
+	position: absolute;
+	top: 200px;
+	left: 270px; 
+	
+}
+.tres {
+	position: absolute;
+	top: 200px;
+	left: 445px;
+	
+}
+.cuatro {
+	position: absolute;
+	top: 380px;
+	left: 58px;
+	
+}
+.cinco {
+	position: absolute;
+	top: 380px;
+	left: 260px;
+	
+}
+.seis {
+	position: absolute;
+	top: 380px;
+	left: 445px;
+	
+}
+
+

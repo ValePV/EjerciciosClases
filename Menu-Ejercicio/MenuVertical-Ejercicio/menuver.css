@@ -1,0 +1,55 @@
+body {
+	font-family: sans-serif;
+}
+nav {
+	width: 190px;
+}
+ul {
+	/*ayuda de guía
+	outline: 1px solid yellow; */
+	/*sacar viñeta*/
+	list-style: none;
+	margin: 0.2em 0.2em;
+	padding: 0;
+	width: 190px;
+	/*espacio entre lineas*/
+	line-height: 29px;
+
+}
+li {
+	background: #ccc8c8;
+		
+}
+
+a {
+	display: block;
+	text-decoration: none;
+	color:black;
+	padding-left: 8px; 
+}
+
+/*cuando pasa po encima el primer color*/
+a:hover {
+	background: #e0e0d1;
+}
+/*cuando se hace clic*/
+a:active {
+	background: #333;
+	color: white;
+}
+
+ul li:first-child {
+	background: #f9a91a;
+}
+
+ul li:first-child a {
+	color: white;
+}
+
+ul li:first-child a:hover {
+	color: black;
+}
+
+ul li:first-child a:active {
+	color: white;
+}

@@ -1,0 +1,38 @@
+body {
+	font-family: sans-serif;
+}
+
+nav{
+
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background: #2e2e2a;
+	line-height: 40px;
+	
+
+}
+
+li {
+	width: 100px;
+	display: inline-block;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	display: block;
+	color: white;
+}
+
+a:hover{
+	background: #f9a91a;
+	color: black;
+}
+a:active {
+	background: #63635e;
+	color: white;
+}

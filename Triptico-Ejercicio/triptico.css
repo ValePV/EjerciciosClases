@@ -7,14 +7,16 @@
 }
 .cuadro1{
 	width: 906px;
-	background: orange;
+	background: #F79618;
 	border-top: none;
 	border-bottom: none;
 	border: solid black;
 }
 
-h2{
+h3{
+	
 	text-align: center;
+	font-family: 'Handlee', cursive;
 }
 .cuadro2{
 	width: 300px;
@@ -49,30 +51,34 @@ h2{
 	float: left;
 }
 
-h3{
+h4, h5{
 	text-align: center;
+	font-family: 'Merienda', cursive;
 }
 p{
 	text-align: center;
+	font-family: 'Merienda', cursive;
 	margin: 0em 2em;
 }
 
 .cuadro5{
 	width: 906px;
-	background: orange;
+	background: #F79618;
 	border: solid black;
 	float: left;
 }
 
 span{
-	text-decoration: underline pink;
+	text-decoration: underline #B25858;
 }
-/*
+
 .ima1{
+	margin:2em;
 	
-	top: 60px;
 }
 .ima2{
-	float: right;
+	margin: 0.2em;
+	width: 260px;
+	height: 240px;
 
 }

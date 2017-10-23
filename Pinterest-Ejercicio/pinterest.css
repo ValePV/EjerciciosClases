@@ -1,0 +1,125 @@
+*{
+	margin:0;
+}
+.contenedor{
+	width: 1350px;
+	height: 3000px;
+	position: absolute;
+	overflow: hidden;
+}
+.barra-sup{
+	position: fixed;
+	background:white;
+}
+
+.fa-pinterest{
+	color: #bd081c;
+	font-size: 35px;
+	margin: 0.3em 1.7em;
+}
+a{
+	text-decoration: none;
+	float: left;
+	font-family: 'Patrick Hand', cursive;
+}
+.buscador{
+	display: block;
+	border-radius: 0.5em;
+	background: silver;
+	width: 950px;
+	margin-top: 0.3em;
+	margin-bottom: 1.5em;
+	float: left;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 1.2em;
+
+
+}
+input{
+	width: 800px;
+	height: 30px;
+	margin:0.5em 0.5em;
+	background: silver;
+	border: none;
+	color:grey;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 1.2em;
+	
+
+}
+label{
+	width: 30px;
+	height: 30px;
+	text-decoration:none;
+	color: grey;
+	font-family: 'Patrick Hand', cursive;
+	 
+}
+.fa-user-circle{
+	color: grey;
+	font-size: 30px;
+	margin: 0.5em 0.7em;
+}
+.fa-bars{
+	color: grey;
+	font-size: 30px;
+	margin: 0.5em 0.7em;
+}
+.fa-twitch{
+	color: grey;
+	font-size: 30px;
+	margin: 0.5em 0.7em;
+}
+hr{
+	width: 1340px;
+}
+
+ul{
+	list-style: none;
+	left: 5px;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	line-height: 60px;
+
+}
+li{
+	margin:1.5em 0.5em;
+	width: 106px;
+	height: 55px;
+	list-style: none;
+	display: block;
+	text-align: center;
+	background: orange;
+	float: left;
+	border-radius: 0.8em;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 1.1em;
+
+}
+
+.menu1, .menu5, .menu9{
+	background-image: url("pin1.jpg");
+}	
+.menu2, .menu6, .menu10{
+	background-image: url("pin2.jpg");
+}
+.menu3, .menu7, .menu11 {
+	background-image: url("pin3.jpg");
+}
+.menu4, .menu8 {
+	background-image: url("pin4.jpg");
+}
+
+.imagenes {
+	margin-top: 15em;
+	margin-left: 1em;
+}
+
+img {
+	width: 300px;
+	margin:0.5em 0.5em;
+	border-radius: 0.6em;
+}
+	
+

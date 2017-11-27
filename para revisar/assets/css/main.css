@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  color: white;
+}
+
+header{
+  background-color: #f78e69;
+}
+header h1{
+  text-align: right;
+}
+header p{
+  text-align: right;
+}
+.img{
+  width: 100%;
+  filter: grayscale(100%);
+}
+.div{
+  margin: 0;
+  padding:0;
+}

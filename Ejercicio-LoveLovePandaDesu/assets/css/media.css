@@ -1,0 +1,42 @@
+@media (min-width: 535px) and (max-width: 824px){
+	[class*="col-"]{
+		width: 100%
+	}
+	
+	body{
+		background-color: #abe188;
+		color: #9A44B6;
+	}
+	.about-pan, .picture{
+		color: white;
+		width: 50%
+		text-align:center;
+	}
+	
+	.about-pandas, .picture-pandas{
+		background-color:#f78e69;
+	}
+
+	.pic{
+		width: 100%;
+	}
+	
+}
+
+@media (min-width: 200px) and (max-width: 534px){
+	[class*="col-"]{
+		width: 100%
+	}
+	body{
+		background-color: #31C1EB;
+		color: white;
+	}
+	.about-pandas, .about-pan, .picture-pandas{
+		background-color:#F769AC;
+	}
+
+	.pic{
+		display: none;
+	}
+	
+}

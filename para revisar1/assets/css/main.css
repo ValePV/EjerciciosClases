@@ -1,0 +1,88 @@
+*{padding: 0;}
+body{
+  margin: 0 auto;
+  font-family: 'Roboto', sans-serif;
+}
+header{
+  background-color: #F78E69;
+  text-align: right;
+  color: #FFF;
+  height: 10em;
+}
+.title{
+  margin: 0.5em 1em;
+  font-size: 3em;
+  /*outline: 1px solid red;*/
+}
+.subtitle{
+  margin: -2em 3em;
+  /*outline: 1px solid red;*/
+}
+.backgroundPanda{
+  height: 37em;
+  background-image: url("../../images/uno.jpg");
+  background-size: cover;
+}
+.text{
+  background-color: #ABE188;
+  border-top: 1em solid #F78E69;
+  border-bottom: 1em solid #F78E69;
+  height: 32em;
+}
+.about, .paragraph{
+  background-color: #F78E69;
+  color: #FFF;
+  text-align: center;
+}
+.about{
+  width: 24em;
+  padding-top: 1em;
+  margin-top: 2em;
+  margin-left: 14em;
+}
+.paragraph{
+  margin-top: -1.5em;;
+  width: 36em;
+  padding: 1.5em;
+  margin-left: 21em;
+}
+.twoPandas{
+  background-image: url("../../images/dos.jpg");
+  background-size: cover;
+  height: 45em;
+}
+.pictures{
+  background-color: #ABE188;
+  /*border-top: 0.3em solid #F78E69;
+  color: #FFF;
+  margin-top: 13em;
+  text-align: center;
+  font-size: 3em;
+  padding-top: 1em;
+  /*outline: 1px solid blue;*/
+}
+.picturesPandas{
+  background-color: #ABE188;
+  /*border-top: 1em solid #F78E69;
+  border-bottom: 1em solid #F78E69;
+  height: 25em;
+  margin-top: -5.35em;
+  /*outline: 1px solid red;*/
+}
+.picture1, .picture2, .picture3, .picture4 {
+  margin-left: 14em;
+  border: 0.5em solid #FFF;
+  margin-bottom: 3em;
+}
+.lazyPanda{
+  width: 100%;
+}
+.prueba{
+  padding: 0;
+  width: 
+}
+footer{
+  background-color: #F78E69;
+  color: #FFF;
+  text-align: right;
+}

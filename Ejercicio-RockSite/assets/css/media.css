@@ -1,0 +1,16 @@
+@media (min-width: 00px) and (max-width: 824px){
+	[class*="col-"]{
+		width: 100%
+	}
+	
+	.imga-about, .img-about, .ima-about{
+		margin-left:50px;
+	}
+	.title-about, .parraf-about{
+		width: 90%;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+}
+

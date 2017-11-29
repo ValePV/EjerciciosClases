@@ -1,8 +1,10 @@
-@media (min-width: 00px) and (max-width: 824px){
+@media screen and (max-width: 600px){
 	[class*="col-"]{
 		width: 100%
 	}
-	
+	.menu-head, .menu, .menu-start, .menu-parraf, .menu-parraf1, .menu-first, .menu-icon{
+		max-width: 100%;
+	}
 	.imga-about, .img-about, .ima-about{
 		margin-left:50px;
 	}
@@ -11,6 +13,18 @@
 		margin-left: 20px;
 		margin-right: 20px;
 	}
+	
+	.menu-icon{
+		display: inline-block;
+		padding-left: 250px;
+	}
+	.menu-parraf{
+		display: none;
+	}
+	.menu-parraf1{
+		display: none;
+	}
+
 
 }
 

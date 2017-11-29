@@ -11,20 +11,32 @@
 	font-size: 20px;
 	font-family: "Roboto";
 	font-weight: 800;
+	display: inline-block;
 }
 .menu-parraf{
 	font-size: 14px;
 	font-family: "Roboto";
 	font-weight: 800;
 	padding-bottom: 0;
+	display: inline-block;
+	padding-left: 20px;
 }
-.menu-cont{
-	padding-top: 20px;
+.menu-parraf1{
+	font-size: 14px;
+	font-family: "Roboto";
+	font-weight: 800;
+	padding-bottom: 0;
+	display: inline-block;
+	padding-left: 900px;
+}
+.menu-icon{
+	padding-left: 20px;
+	display: none;	
 }
 .head{
 	background-image: url(../../images/header.jpg);
-	-webkit-filter: brightness(50%);
 	background-size: cover;
+	-webkit-filter: brightness(50%);
 	width: 100%;
 	height: 600px;
 }
@@ -35,7 +47,7 @@
 	color: white;
 	text-align: center;
 	margin-top: 150px;
-	filter: brightness(100%);
+	
 }
 .head-subtitle{
 	font-family: "Roboto";

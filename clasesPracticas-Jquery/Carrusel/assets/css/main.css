@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+  background-color: #B7D680;
+}
+ul,ol{
+	list-style: none;	
+}
+span{
+  border:none;
+}
+img{
+	max-width: 600px;
+  border:5px solid #6D7F4D;
+}
+.conten-title h1{
+  font-family: 'Permanent Marker';
+  font-size: 70px;
+}
+body .fa-chevron-left,body .fa-chevron-right{
+  font-size: 30px;
+  padding-top: 160px;
+}
+.selec{
+  margin-left: 550px;
+}

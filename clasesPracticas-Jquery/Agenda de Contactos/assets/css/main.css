@@ -1,0 +1,51 @@
+body{
+
+}
+.sectio-nav{
+	background-color: #F3A36E;
+  border: none;
+}
+.but-add{
+  font-size: 23px;
+  background-color: #7E7D7D;
+  color: #F3A36E;
+  padding: 0px 8px 0px 8px;
+  border-color: #7E7D7D;
+
+}
+.but-add:active{
+  color: #494949;
+}
+.but-nav{
+  background-color: #F7C8A9;
+}
+.fa-search{
+  color: #494949;
+}
+.moda-content1{
+  padding: 15px;
+}
+.avatar{
+  width: 100px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.cont-contact{
+  padding: 20px 10px 0px 10px;
+}
+.section-contact{
+  padding: 30px;
+}
+.second-content-contact{
+  padding: 10px;
+}
+.user{
+  width: 150px;
+}
+ul{
+  list-style: none;
+  padding-left: 75px;
+}
+ul a{
+  color: #969595;
+}
